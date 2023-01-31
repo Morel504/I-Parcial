@@ -86,7 +86,7 @@
             // 
             this.LongitudTextBox1.Location = new System.Drawing.Point(195, 137);
             this.LongitudTextBox1.Name = "LongitudTextBox1";
-            this.LongitudTextBox1.Size = new System.Drawing.Size(133, 26);
+            this.LongitudTextBox1.Size = new System.Drawing.Size(178, 26);
             this.LongitudTextBox1.TabIndex = 4;
             this.LongitudTextBox1.TextChanged += new System.EventHandler(this.LongitudTextBox1_TextChanged);
             // 
@@ -104,14 +104,14 @@
             // 
             this.PrimerCaracterTextBox.Location = new System.Drawing.Point(193, 188);
             this.PrimerCaracterTextBox.Name = "PrimerCaracterTextBox";
-            this.PrimerCaracterTextBox.Size = new System.Drawing.Size(133, 26);
+            this.PrimerCaracterTextBox.Size = new System.Drawing.Size(180, 26);
             this.PrimerCaracterTextBox.TabIndex = 6;
             // 
             // UltimoCaracterTextBox
             // 
             this.UltimoCaracterTextBox.Location = new System.Drawing.Point(193, 237);
             this.UltimoCaracterTextBox.Name = "UltimoCaracterTextBox";
-            this.UltimoCaracterTextBox.Size = new System.Drawing.Size(133, 26);
+            this.UltimoCaracterTextBox.Size = new System.Drawing.Size(180, 26);
             this.UltimoCaracterTextBox.TabIndex = 8;
             // 
             // label4
@@ -127,7 +127,7 @@
             // 
             this.MayusculasTextBox1.Location = new System.Drawing.Point(193, 288);
             this.MayusculasTextBox1.Name = "MayusculasTextBox1";
-            this.MayusculasTextBox1.Size = new System.Drawing.Size(133, 26);
+            this.MayusculasTextBox1.Size = new System.Drawing.Size(180, 26);
             this.MayusculasTextBox1.TabIndex = 10;
             // 
             // label5
@@ -143,7 +143,7 @@
             // 
             this.MinusculasTextBox1.Location = new System.Drawing.Point(193, 339);
             this.MinusculasTextBox1.Name = "MinusculasTextBox1";
-            this.MinusculasTextBox1.Size = new System.Drawing.Size(133, 26);
+            this.MinusculasTextBox1.Size = new System.Drawing.Size(180, 26);
             this.MinusculasTextBox1.TabIndex = 12;
             // 
             // label6
@@ -159,7 +159,7 @@
             // 
             this.ReemplazarTextBox1.Location = new System.Drawing.Point(193, 387);
             this.ReemplazarTextBox1.Name = "ReemplazarTextBox1";
-            this.ReemplazarTextBox1.Size = new System.Drawing.Size(133, 26);
+            this.ReemplazarTextBox1.Size = new System.Drawing.Size(180, 26);
             this.ReemplazarTextBox1.TabIndex = 14;
             // 
             // label7
