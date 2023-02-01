@@ -24,7 +24,7 @@ namespace IParcial
             DiaTextBox.Text = fecha.Day.ToString();
             MesTextBox.Text = fecha.ToString("MMMM");
             AñoTextBox.Text = fecha.Year.ToString();    
-            SemanaTextBox.Text = fecha.DayOfWeek.ToString();
+            SemanaTextBox.Text = fecha.ToString("dddd        ");
 
 
         }
