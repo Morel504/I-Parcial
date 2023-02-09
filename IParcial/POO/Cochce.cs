@@ -28,6 +28,24 @@ namespace POO
 
         public int Kilometros { get;set; }
 
+        //Constructores
+        public Cochce() { }
+        public Cochce(string _marca, string _modelo) 
+        {
+            Marca = _marca;
+            Modelo = _modelo;
+        }
+
+        public Cochce(string marca, string modelo, decimal precio, int kilometros) : this(marca, modelo)
+        {
+            Precio = precio;
+            Kilometros = kilometros;
+        }
+
+        public string DevolverDatosBasicos ()
+        {
+            return "Marca: "+ Marca+ "Modelo:" + Modelo + "Precio" + Precio ;
+        }
 
 
     }
